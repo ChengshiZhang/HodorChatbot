@@ -145,7 +145,7 @@ A more sophisticated version of it LSTM: Long Short Term Memory.
 
 ## How to run
 
-Considering that running the website requires installing lots of packages, we have prepared two versions of the chatbot: the website version, which requires installing lots of packages; and the python code version, which only requires python.
+Considering that running the website requires installing lots of packages, we have prepared two versions of the chatbot: the website version, which requires the MEAN stack standard packages; and the python code version, which only requires python.
 
 To run the website on Mac OS X:
 
